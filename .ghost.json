@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://skrghost.herokuapp.com",
+    "contentApiKey": "761da46a32a43f88b9b5f1f61f"
+  },
+  "production": {
+    "apiUrl": "https://skrghost.herokuapp.com",
+    "contentApiKey": "761da46a32a43f88b9b5f1f61f"
+  }
+}
